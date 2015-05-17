@@ -294,8 +294,6 @@
 					<dict>
 						<key>CreatedOnToolsVersion</key>
 						<string>6.0.1</string>
-						<key>DevelopmentTeam</key>
-						<string>H4Z42X3L6X</string>
 					</dict>
 					<key>9B6E1EA319E2EB2100C72D13</key>
 					<dict>
@@ -896,6 +894,8 @@
 				<string>AppIcon</string>
 				<key>CLANG_ENABLE_MODULES</key>
 				<string>YES</string>
+				<key>CODE_SIGN_IDENTITY</key>
+				<string>iPhone Developer</string>
 				<key>INFOPLIST_FILE</key>
 				<string>Edhita/Info.plist</string>
 				<key>LD_RUNPATH_SEARCH_PATHS</key>
@@ -922,6 +922,8 @@
 				<string>AppIcon</string>
 				<key>CLANG_ENABLE_MODULES</key>
 				<string>YES</string>
+				<key>CODE_SIGN_IDENTITY</key>
+				<string>iPhone Developer</string>
 				<key>INFOPLIST_FILE</key>
 				<string>Edhita/Info.plist</string>
 				<key>LD_RUNPATH_SEARCH_PATHS</key>

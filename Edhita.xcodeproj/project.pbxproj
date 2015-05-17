@@ -328,8 +328,6 @@
 			<string>9B6E1E8E19E2EB2100C72D13</string>
 			<key>projectDirPath</key>
 			<string></string>
-			<key>projectReferences</key>
-			<array/>
 			<key>projectRoot</key>
 			<string></string>
 			<key>targets</key>
@@ -363,7 +361,6 @@
 				<string>9B91999419E5185C003751FA</string>
 				<string>9B6E1EBF19E423A100C72D13</string>
 				<string>9B6E1EBD19E35C2300C72D13</string>
-				<string>9B91999119E429B0003751FA</string>
 				<string>9B2E0A5819E6C876002E9CA4</string>
 			</array>
 			<key>isa</key>
@@ -1078,7 +1075,6 @@
 		<dict>
 			<key>children</key>
 			<array>
-				<string>9B91999019E429B0003751FA</string>
 				<string>9B2E0A5519E683CC002E9CA4</string>
 			</array>
 			<key>isa</key>
@@ -1087,26 +1083,6 @@
 			<string>Models</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9B91999019E429B0003751FA</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>AppSecret.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9B91999119E429B0003751FA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9B91999019E429B0003751FA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>9B91999219E51848003751FA</key>
 		<dict>
